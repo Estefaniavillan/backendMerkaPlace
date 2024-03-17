@@ -1,0 +1,76 @@
+{
+    "productos":[
+        [
+            {
+              "id": 1,
+              "nombre": "Camiseta Hombre",
+              "categoria": ["masculino", "Camisetas"],
+              "imagenes": [
+                "https://dynamobrand.co/cdn/shop/products/DSC00499.jpg?v=1681252226",
+                "https://www.buds.com.co/wp-content/uploads/2023/05/Camiseta-Oversize-HombreDSC07247.jpg",
+                "https://dynamobrand.co/cdn/shop/files/DSC09323.jpg?v=1689611668"
+              ],
+              "precioUnitario": 50000,
+              "stock": [
+                {
+                  "talla": "S",
+                  "cantidad": 20,
+                  "color": " white"
+                },
+                {
+                  "talla": "S",
+                  "cantidad": 5,
+                  "color": " black"
+                },
+                {
+                  "talla": "M",
+                  "cantidad": 2,
+                  "color": "red"
+                },
+                {
+                  "talla": "M",
+                  "cantidad": 3,
+                  "color": "blue"
+                }
+              ]
+            },
+          
+            {
+              "id": 2,
+              "nombre": "Vestido Dama",
+              "categoria": ["femenino", "vestido"],
+              "imagenes": [
+                "https://i.pinimg.com/originals/8c/68/77/8c68775a0fea563ce8ca2566cc474eed.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHeaQMt7mUnU3C6PQlwhfsCuW0VvCVVBuPQ&usqp=CAU",
+                "https://ae01.alicdn.com/kf/S2692d209188c4a46b862a779eb6b0051b.jpg_640x640Q90.jpg_.webp"
+              ],
+              "precioUnitario": 50000,
+              "stock": [
+                {
+                  "talla": "S",
+                  "cantidad": 20,
+                  "color": " white"
+                },
+                {
+                  "talla": "S",
+                  "cantidad": 5,
+                  "color": "black"
+                },
+                {
+                  "talla": "M",
+                  "cantidad": 2,
+                  "color": "white"
+                },
+                {
+                  "talla": "M",
+                  "cantidad": 3,
+                  "color": "blue"
+                }
+              ]
+            }
+          ]
+    ],
+    "ordenesCompra":[
+
+    ]
+}
